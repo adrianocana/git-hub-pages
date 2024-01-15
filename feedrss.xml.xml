@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+
+        <channel>
+
+         <title>Noticias Interesantes</title>
+         <link>https://github.com/adrianocana/git-hub-pages</link>
+         <description>Algunas noticias que considero interesantes</description>
+         <lastBuildDate>Thu, 11 Jan 2024 10:19:11 +0000</lastBuildDate>
+         <copyright>Copyright (c) 2024 IDG Communications, Inc.</copyright>
+          <docs>http://backend.userland.com/rss092</docs>
+          <sy:updatePeriod>hourly</sy:updatePeriod>
+          <sy:updateFrequency>1</sy:updateFrequency>
+          <generator>Visual Studio Code</generator>
+          <language>es-es</language>
+
+            <item>
+
+                <title>Las ventas de PC también han caído en 2023, Apple es la peor parada: confían en resurgir en 2024 gracias a la IA</title>
+                <link>https://computerhoy.com/pc/ventas-pc-caen-2023-pero-confian-resurgir-2024-inteligencia-artificial-1355878</link>
+                <description>Hoy se han revelado las ventas globales de ordenadores PC en 2023, y como ha ocurrido en los últimos años, han vuelto a caer un 13,9%. </description>
+                <category>Noticias</category>
+                
+            </item>
+
+            <item>
+
+                <title>Ofertas Mejora el almacenamiento y crea copias de seguridad con estas memorias en oferta</title>
+                <link>https://www.redeszone.net/noticias/ofertas/amazon-varias-bazar-unidades-almacenamiento-0124/</link>
+                <description>Comprar una nueva memoria de almacenamiento puede ser interesante por varios motivos. </description>
+                <category>Noticias</category>
+               
+                <comments>https://www.redeszone.net/noticias/ofertas/amazon-varias-bazar-unidades-almacenamiento-0124/#respond</comments>
+           
+            </item>
+
+            <item>
+
+                <title>Alerta! Nueva campaña de malware Lazarus contra el software legítimo</title>
+                <link>https://revistabyte.es/ciberseguridad/malware-lazarus/</link>
+                <description>El Equipo de Investigación y Análisis de Kaspersky (GReAT) ha desvelado una nueva campaña del grupo Lazarus, que apunta a organizaciones a nivel global.</description>
+                   
+            </item> 
+            <image>
+                     <url>https://revistabyte.es/wp-content/uploads/2021/11/cuidado-lazarus-vuelve-a-la-carga-con-fines-de-ciberespionaje.jpg.webp</url>
+                     <title>Alerta! Nueva campaña de malware Lazarus contra el software legítimo</title>
+                     <link>https://revistabyte.es/ciberseguridad/malware-lazarus/</link>
+
+                    </image>
+        
+            <item>
+
+                <title>Audio Radar gives hearing impaired gamers a fair shot</title>
+                <link>https://www.pcworld.com/article/2198434/audio-radar-gives-hearing-impaired-gamers-a-fair-shot.html</link>
+                <description>Audio Radar translates 7.1 surround sound output into visual cues to help hearing impaired gamers compete.</description>
+                <category>Noticias</category>
+                
+               
+
+            </item>
+
+            <item>
+
+                <title>CaixaBank participa en EMERALD, proyecto europeo para la seguridad de los servicios cloud</title>
+                <link>https://www.computing.es/cloud/caixabank-participa-en-emerald-proyecto-europeo-para-la-seguridad-de-los-servicios-cloud/</link>
+                <description>El programa Horizonte Europa cuenta con una inversión de 4,7 millones de euros y una duración de tres años</description>
+                <category>Noticias</category>
+              
+               
+
+            </item>
+
+        </channel>
+    </rss>
