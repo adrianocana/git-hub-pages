@@ -1,2 +1,2 @@
 # git-hub-pages
-[Feed](feedrss.xml.xml)
+[Feed](feedrss.xml)
